@@ -4,14 +4,6 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>Machè App</name>
 
-<description>
-
-</description>
-
-<author href="https://www.machebar.com" email="info@machebar.com.com">
-Your Name
-</author>
 
 </widget>
